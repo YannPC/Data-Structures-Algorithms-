@@ -18,6 +18,12 @@
             Array_Find_the_higest_value array_Find_The_Higest_Value = new Array_Find_the_higest_value();
 
             array_Find_The_Higest_Value.FindHighestValue();
+
+            Console.WriteLine("Next Learning is DSA, Find the second higest number");
+
+            Array_find_the_second_higest_number array_Find_The_Second_Higest_Number = new Array_find_the_second_higest_number();
+
+            array_Find_The_Second_Higest_Number.FindSeoncHighestValue();
         }
     }
 }
