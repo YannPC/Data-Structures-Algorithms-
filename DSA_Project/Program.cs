@@ -24,6 +24,10 @@
             Array_find_the_second_higest_number array_Find_The_Second_Higest_Number = new Array_find_the_second_higest_number();
 
             array_Find_The_Second_Higest_Number.FindSeoncHighestValue();
+
+            SortedbyNumber sortedbyNumber = new SortedbyNumber();
+            Console.WriteLine("IntialValue: ");
+            sortedbyNumber.sortedbyNumber();
         }
     }
 }
