@@ -28,6 +28,13 @@
             SortedbyNumber sortedbyNumber = new SortedbyNumber();
             Console.WriteLine("IntialValue: ");
             sortedbyNumber.sortedbyNumber();
+
+            Console.WriteLine("\nNext Learning is DSA, Remove duplicate from array");
+
+            remove_deplicate_from_array remove_Duplicate = new remove_deplicate_from_array();
+
+            remove_Duplicate.RemoveDuplicate();
+
         }
     }
 }
