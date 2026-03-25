@@ -14,9 +14,9 @@ namespace DSA_Project
             int[] numbers = new int[5] {5,3,1,4,2};
 
            foreach(int number in numbers)
-            {
+           {
                 Console.Write(number + " ");
-            }
+           }
 
           sortedNumer(numbers);
 
