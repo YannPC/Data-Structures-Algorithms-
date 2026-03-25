@@ -35,6 +35,12 @@
 
             remove_Duplicate.RemoveDuplicate();
 
+            Console.WriteLine("\nNext Learning is DSA, Inverse array");
+
+            InverseArray inverseArray = new InverseArray();
+
+            inverseArray.InverseArrayMethod();
+
         }
     }
 }
