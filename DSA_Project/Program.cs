@@ -41,6 +41,16 @@
 
             inverseArray.InverseArrayMethod();
 
+            Console.WriteLine("\nNext Learning is DSA, Find the Leader of the array");
+
+            LeaderArray leaderArray = new LeaderArray();
+
+            leaderArray.LeaderOfTheArray();
+
+
+
+
+
         }
     }
 }
