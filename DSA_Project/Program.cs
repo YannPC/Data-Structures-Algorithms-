@@ -1,4 +1,7 @@
-﻿namespace DSA_Project
+﻿using System;
+using System.Collections;
+
+namespace DSA_Project
 {
     internal class Program
     {
@@ -47,9 +50,15 @@
 
             leaderArray.LeaderOfTheArray();
 
+            Console.WriteLine("\nNext Learning is DSA, sort the array");
+            SortArray sortArray = new SortArray();
 
+            sortArray.SortArrayMethod();
 
+            CountArray count = new CountArray();
 
+            Console.WriteLine("\nNext Learning is DSA, Count Array");
+            count.CountArrayMethod();
 
         }
     }
