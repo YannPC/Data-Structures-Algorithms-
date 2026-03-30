@@ -60,6 +60,17 @@ namespace DSA_Project
             Console.WriteLine("\nNext Learning is DSA, Count Array");
             count.CountArrayMethod();
 
+            Console.WriteLine("\nNext Learning is DSA, sum of Number in the array");
+
+            SumofArray sumofArray = new SumofArray();
+
+            sumofArray.SumOfArray();
+
+            FindPositiveMissingValueinArray findPositiveValue = new FindPositiveMissingValueinArray();
+
+            findPositiveValue.FindPositiveValueinArray();
+
+
         }
     }
 }
