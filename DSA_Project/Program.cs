@@ -70,7 +70,11 @@ namespace DSA_Project
 
             findPositiveValue.FindPositiveValueinArray();
 
+            Console.WriteLine("\nNext Learning is DSA, Array with duplicates");
 
+            RemoveDuplicatesFromSortedArray removeDuplicatesFromSortedArray = new RemoveDuplicatesFromSortedArray();
+
+            removeDuplicatesFromSortedArray.RemoveDuplicatesfromSortedArray();
         }
     }
 }
