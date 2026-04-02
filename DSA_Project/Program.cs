@@ -87,7 +87,13 @@ namespace DSA_Project
             EvenOrOdd evenOrOdd = new EvenOrOdd();
             evenOrOdd.EvenOrOddMethod();
 
-            ;   
+            Console.WriteLine("\nNext Learning is DSA, Alternative Array");
+
+            AlternativeArray alternativeArray = new AlternativeArray(); 
+           alternativeArray.AlternativeArrayMethod();   
+
+
+
         }
     }
 }
