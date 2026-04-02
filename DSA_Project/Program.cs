@@ -75,6 +75,12 @@ namespace DSA_Project
             RemoveDuplicatesFromSortedArray removeDuplicatesFromSortedArray = new RemoveDuplicatesFromSortedArray();
 
             removeDuplicatesFromSortedArray.RemoveDuplicatesfromSortedArray();
+
+            Console.WriteLine("\nNext Learning is DSA, Move the zero of array at the end");
+
+            MoveArrayZerotoEnd moveArrayZerotoEnd = new MoveArrayZerotoEnd();   
+
+            moveArrayZerotoEnd.MoveZeroToEnd();
         }
     }
 }
