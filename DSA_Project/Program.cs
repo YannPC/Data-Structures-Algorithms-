@@ -81,6 +81,13 @@ namespace DSA_Project
             MoveArrayZerotoEnd moveArrayZerotoEnd = new MoveArrayZerotoEnd();   
 
             moveArrayZerotoEnd.MoveZeroToEnd();
+
+            Console.WriteLine("\nNext Learning is DSA, Even or Odd");
+
+            EvenOrOdd evenOrOdd = new EvenOrOdd();
+            evenOrOdd.EvenOrOddMethod();
+
+            ;   
         }
     }
 }
