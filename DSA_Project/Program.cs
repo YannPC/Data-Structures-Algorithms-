@@ -98,6 +98,11 @@ namespace DSA_Project
 
             sumOfNnumber.SumOfNMethod();
 
+            Console.WriteLine("\nNext Learning is DSA, Count of Digit");
+
+            Count_Digit count_Digit = new Count_Digit();
+
+            count_Digit.CountDigitMethod();
         }
     }
 }
