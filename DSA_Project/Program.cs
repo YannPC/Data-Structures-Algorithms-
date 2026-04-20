@@ -92,7 +92,11 @@ namespace DSA_Project
             AlternativeArray alternativeArray = new AlternativeArray(); 
            alternativeArray.AlternativeArrayMethod();   
 
+            Console.WriteLine("\nNext Learning is DSA, Sum of N numbers");
 
+            SumOfN sumOfNnumber = new SumOfN();
+
+            sumOfNnumber.SumOfNMethod();
 
         }
     }
