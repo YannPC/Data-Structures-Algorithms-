@@ -115,6 +115,13 @@ namespace DSA_Project
             Searching_Key_Array searchKey = new Searching_Key_Array();
 
             searchKey.SearchKeyArray();
+
+            Console.WriteLine("\nNext Learning is DSA, Binear Tree find the Key number");
+
+
+            Binear_Search_find_the_key binear_Search_Find_The_Key = new Binear_Search_find_the_key();
+
+            binear_Search_Find_The_Key.BinearSearchFindTheKey();
         }
     }
 }
