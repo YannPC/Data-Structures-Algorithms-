@@ -122,6 +122,12 @@ namespace DSA_Project
             Binear_Search_find_the_key binear_Search_Find_The_Key = new Binear_Search_find_the_key();
 
             binear_Search_Find_The_Key.BinearSearchFindTheKey();
+
+            Console.WriteLine("\nNext Learning is DSA, Linear search find the Key number");
+
+            Linear_Search_find_nNumber linear_Search_Find_The_Key = new Linear_Search_find_nNumber();
+
+            linear_Search_Find_The_Key.LinearSearchFindNumber();
         }
     }
 }
