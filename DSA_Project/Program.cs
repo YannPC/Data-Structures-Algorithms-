@@ -128,6 +128,12 @@ namespace DSA_Project
             Linear_Search_find_nNumber linear_Search_Find_The_Key = new Linear_Search_find_nNumber();
 
             linear_Search_Find_The_Key.LinearSearchFindNumber();
+
+            Console.WriteLine("\nNext Learning is DSA, Lower Bound with Linear Search");
+
+            Lower_Bound_withLinearSearch lower_Bound_WithLinearSearch = new Lower_Bound_withLinearSearch(); 
+             
+            lower_Bound_WithLinearSearch.LowerBoundWithLinearSearch();
         }
     }
 }
