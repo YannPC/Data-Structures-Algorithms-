@@ -157,7 +157,7 @@ namespace DSA_Project
             stack.Push(2);
             stack.Push(3);
             stack.Push(4);
-            stack.Push(5);
+ 
 
             Console.WriteLine("Top element: " + stack.Peek());
             Console.WriteLine("Popped element: " + stack.Pop());
