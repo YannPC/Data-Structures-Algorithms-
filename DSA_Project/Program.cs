@@ -154,7 +154,18 @@ namespace DSA_Project
             Stack stack = new Stack();
 
             stack.Push(1);
-            Console.WriteLine("\nNext Learning is DSA, Learning Stack");
+            stack.Push(2);
+            stack.Push(3);
+            stack.Push(4);
+            stack.Push(5);
+
+            Console.WriteLine("Top element: " + stack.Peek());
+            Console.WriteLine("Popped element: " + stack.Pop());
+            Console.WriteLine("Top element after pop: " + stack.Peek());
+
+
+
+
 
         }
 

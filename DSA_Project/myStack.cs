@@ -34,6 +34,30 @@ namespace DSA_Project
 
             array[++top] = x;
         }
+
+       public  int pop()
+        {
+
+            if (top == -1)
+            {
+                Console.WriteLine("Stack Underflow");
+                return -1;
+            }
+
+            return array[top--];
+        }
+       public int peek()
+        {
+
+            if (top == -1)
+            {
+                Console.WriteLine("Stack is Empty");
+                return -1;
+            }
+
+            return array[top];
+        }
+
     }
 
 
