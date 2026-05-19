@@ -169,6 +169,11 @@ namespace DSA_Project
             Array_String_Common_Prefix array_String_Common_Prefix = new Array_String_Common_Prefix();
 
             array_String_Common_Prefix.CommonPrefix();
+
+            Console.WriteLine("\nNext Learning is DSA, Remove the occurence of string");
+            Array_String_remove_occurence array_String_Remove_Occurence = new Array_String_remove_occurence();
+            array_String_Remove_Occurence.RemoveOccurence();
+
         }
 
     }
