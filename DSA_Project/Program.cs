@@ -7,147 +7,147 @@ namespace DSA_Project
     {
         static void Main(string[] args)
         {
-            //Fibonacci_Sequence Fibonacci_Sequence = new Fibonacci_Sequence();
-            //Fibonacci_Sequence.PrintSequence();
+            Fibonacci_Sequence Fibonacci_Sequence = new Fibonacci_Sequence();
+            Fibonacci_Sequence.PrintSequence();
 
-            //Console.WriteLine("Next Learning is DSA, Find the Lowest Number");
+            Console.WriteLine("Next Learning is DSA, Find the Lowest Number");
 
-            //Array_Find_the_lowest_value array_Find_The_Lowest_Value = new Array_Find_the_lowest_value();
+            Array_Find_the_lowest_value array_Find_The_Lowest_Value = new Array_Find_the_lowest_value();
 
-            //array_Find_The_Lowest_Value.FindLowestValue();
+            array_Find_The_Lowest_Value.FindLowestValue();
 
-            //Console.WriteLine("Next Learning is DSA, Find the higest number");
+            Console.WriteLine("Next Learning is DSA, Find the higest number");
 
-            //Array_Find_the_higest_value array_Find_The_Higest_Value = new Array_Find_the_higest_value();
+            Array_Find_the_higest_value array_Find_The_Higest_Value = new Array_Find_the_higest_value();
 
-            //array_Find_The_Higest_Value.FindHighestValue();
+            array_Find_The_Higest_Value.FindHighestValue();
 
-            //Console.WriteLine("Next Learning is DSA, Find the second higest number");
+            Console.WriteLine("Next Learning is DSA, Find the second higest number");
 
-            //Array_find_the_second_higest_number array_Find_The_Second_Higest_Number = new Array_find_the_second_higest_number();
+            Array_find_the_second_higest_number array_Find_The_Second_Higest_Number = new Array_find_the_second_higest_number();
 
-            //array_Find_The_Second_Higest_Number.FindSeoncHighestValue();
+            array_Find_The_Second_Higest_Number.FindSeoncHighestValue();
 
-            //SortedbyNumber sortedbyNumber = new SortedbyNumber();
-            //Console.WriteLine("IntialValue: ");
-            //sortedbyNumber.sortedbyNumber();
+            SortedbyNumber sortedbyNumber = new SortedbyNumber();
+            Console.WriteLine("IntialValue: ");
+            sortedbyNumber.sortedbyNumber();
 
-            //Console.WriteLine("\nNext Learning is DSA, Remove duplicate from array");
+            Console.WriteLine("\nNext Learning is DSA, Remove duplicate from array");
 
-            //remove_deplicate_from_array remove_Duplicate = new remove_deplicate_from_array();
+            remove_deplicate_from_array remove_Duplicate = new remove_deplicate_from_array();
 
-            //remove_Duplicate.RemoveDuplicate();
+            remove_Duplicate.RemoveDuplicate();
 
-            //Console.WriteLine("\nNext Learning is DSA, Inverse array");
+            Console.WriteLine("\nNext Learning is DSA, Inverse array");
 
-            //InverseArray inverseArray = new InverseArray();
+            InverseArray inverseArray = new InverseArray();
 
-            //inverseArray.InverseArrayMethod();
+            inverseArray.InverseArrayMethod();
 
-            //Console.WriteLine("\nNext Learning is DSA, Find the Leader of the array");
+            Console.WriteLine("\nNext Learning is DSA, Find the Leader of the array");
 
-            //LeaderArray leaderArray = new LeaderArray();
+            LeaderArray leaderArray = new LeaderArray();
 
-            //leaderArray.LeaderOfTheArray();
+            leaderArray.LeaderOfTheArray();
 
-            //Console.WriteLine("\nNext Learning is DSA, sort the array");
-            //SortArray sortArray = new SortArray();
+            Console.WriteLine("\nNext Learning is DSA, sort the array");
+            SortArray sortArray = new SortArray();
 
-            //sortArray.SortArrayMethod();
+            sortArray.SortArrayMethod();
 
-            //CountArray count = new CountArray();
+            CountArray count = new CountArray();
 
-            //Console.WriteLine("\nNext Learning is DSA, Count Array");
-            //count.CountArrayMethod();
+            Console.WriteLine("\nNext Learning is DSA, Count Array");
+            count.CountArrayMethod();
 
-            //Console.WriteLine("\nNext Learning is DSA, sum of Number in the array");
+            Console.WriteLine("\nNext Learning is DSA, sum of Number in the array");
 
-            //SumofArray sumofArray = new SumofArray();
+            SumofArray sumofArray = new SumofArray();
 
-            //sumofArray.SumOfArray();
+            sumofArray.SumOfArray();
 
-            //FindPositiveMissingValueinArray findPositiveValue = new FindPositiveMissingValueinArray();
+            FindPositiveMissingValueinArray findPositiveValue = new FindPositiveMissingValueinArray();
 
-            //findPositiveValue.FindPositiveValueinArray();
+            findPositiveValue.FindPositiveValueinArray();
 
-            //Console.WriteLine("\nNext Learning is DSA, Array with duplicates");
+            Console.WriteLine("\nNext Learning is DSA, Array with duplicates");
 
-            //RemoveDuplicatesFromSortedArray removeDuplicatesFromSortedArray = new RemoveDuplicatesFromSortedArray();
+            RemoveDuplicatesFromSortedArray removeDuplicatesFromSortedArray = new RemoveDuplicatesFromSortedArray();
 
-            //removeDuplicatesFromSortedArray.RemoveDuplicatesfromSortedArray();
+            removeDuplicatesFromSortedArray.RemoveDuplicatesfromSortedArray();
 
-            //Console.WriteLine("\nNext Learning is DSA, Move the zero of array at the end");
+            Console.WriteLine("\nNext Learning is DSA, Move the zero of array at the end");
 
-            //MoveArrayZerotoEnd moveArrayZerotoEnd = new MoveArrayZerotoEnd();
+            MoveArrayZerotoEnd moveArrayZerotoEnd = new MoveArrayZerotoEnd();
 
-            //moveArrayZerotoEnd.MoveZeroToEnd();
+            moveArrayZerotoEnd.MoveZeroToEnd();
 
-            //Console.WriteLine("\nNext Learning is DSA, Even or Odd");
+            Console.WriteLine("\nNext Learning is DSA, Even or Odd");
 
-            //EvenOrOdd evenOrOdd = new EvenOrOdd();
-            //evenOrOdd.EvenOrOddMethod();
+            EvenOrOdd evenOrOdd = new EvenOrOdd();
+            evenOrOdd.EvenOrOddMethod();
 
-            //Console.WriteLine("\nNext Learning is DSA, Alternative Array");
+            Console.WriteLine("\nNext Learning is DSA, Alternative Array");
 
-            //AlternativeArray alternativeArray = new AlternativeArray();
-            //alternativeArray.AlternativeArrayMethod();
+            AlternativeArray alternativeArray = new AlternativeArray();
+            alternativeArray.AlternativeArrayMethod();
 
-            //Console.WriteLine("\nNext Learning is DSA, Sum of N numbers");
+            Console.WriteLine("\nNext Learning is DSA, Sum of N numbers");
 
-            //SumOfN sumOfNnumber = new SumOfN();
+            SumOfN sumOfNnumber = new SumOfN();
 
-            //sumOfNnumber.SumOfNMethod();
+            sumOfNnumber.SumOfNMethod();
 
-            //Console.WriteLine("\nNext Learning is DSA, Count of Digit");
+            Console.WriteLine("\nNext Learning is DSA, Count of Digit");
 
-            //Count_Digit count_Digit = new Count_Digit();
+            Count_Digit count_Digit = new Count_Digit();
 
-            //count_Digit.CountDigitMethod();
+            count_Digit.CountDigitMethod();
 
-            //Console.WriteLine("\nNext Learning is DSA, Sorted number");
+            Console.WriteLine("\nNext Learning is DSA, Sorted number");
 
-            //SortedArray sortedArray = new SortedArray();
+            SortedArray sortedArray = new SortedArray();
 
-            //sortedArray.SortArrayMethod();
+            sortedArray.SortArrayMethod();
 
-            //Console.WriteLine("\nNext Learning is DSA, found search Key");
+            Console.WriteLine("\nNext Learning is DSA, found search Key");
 
-            //Searching_Key_Array searchKey = new Searching_Key_Array();
+            Searching_Key_Array searchKey = new Searching_Key_Array();
 
-            //searchKey.SearchKeyArray();
+            searchKey.SearchKeyArray();
 
-            //Console.WriteLine("\nNext Learning is DSA, Binear Tree find the Key number");
+            Console.WriteLine("\nNext Learning is DSA, Binear Tree find the Key number");
 
 
-            //Binear_Search_find_the_key binear_Search_Find_The_Key = new Binear_Search_find_the_key();
+            Binear_Search_find_the_key binear_Search_Find_The_Key = new Binear_Search_find_the_key();
 
-            //binear_Search_Find_The_Key.BinearSearchFindTheKey();
+            binear_Search_Find_The_Key.BinearSearchFindTheKey();
 
-            //Console.WriteLine("\nNext Learning is DSA, Linear search find the Key number");
+            Console.WriteLine("\nNext Learning is DSA, Linear search find the Key number");
 
-            //Linear_Search_find_nNumber linear_Search_Find_The_Key = new Linear_Search_find_nNumber();
+            Linear_Search_find_nNumber linear_Search_Find_The_Key = new Linear_Search_find_nNumber();
 
-            //linear_Search_Find_The_Key.LinearSearchFindNumber();
+            linear_Search_Find_The_Key.LinearSearchFindNumber();
 
-            //Console.WriteLine("\nNext Learning is DSA, Lower Bound with Linear Search");
+            Console.WriteLine("\nNext Learning is DSA, Lower Bound with Linear Search");
 
-            //Lower_Bound_withLinearSearch lower_Bound_WithLinearSearch = new Lower_Bound_withLinearSearch();
+            Lower_Bound_withLinearSearch lower_Bound_WithLinearSearch = new Lower_Bound_withLinearSearch();
 
-            //lower_Bound_WithLinearSearch.LowerBoundWithLinearSearch();
+            lower_Bound_WithLinearSearch.LowerBoundWithLinearSearch();
 
-            //Console.WriteLine("\nNext Learning is DSA, Upper Bound with Linear Search");
+            Console.WriteLine("\nNext Learning is DSA, Upper Bound with Linear Search");
 
-            //Upper_Bound_withLinearSearch upper_Bound_WithLinearSearch = new Upper_Bound_withLinearSearch();
+            Upper_Bound_withLinearSearch upper_Bound_WithLinearSearch = new Upper_Bound_withLinearSearch();
 
 
-            //upper_Bound_WithLinearSearch.UpperBoundWithLinearSearch();
+            upper_Bound_WithLinearSearch.UpperBoundWithLinearSearch();
 
 
-            //Console.WriteLine("\nNext Learning is DSA, Check two string are same or not");
+            Console.WriteLine("\nNext Learning is DSA, Check two string are same or not");
 
-            //String_check2String string_Check2String = new String_check2String();
+            String_check2String string_Check2String = new String_check2String();
 
-            //string_Check2String.Scheck2String();
+            string_Check2String.Scheck2String();
 
             Console.WriteLine("\nNext Learning is DSA, Learning Stack");
 
@@ -157,16 +157,18 @@ namespace DSA_Project
             stack.Push(2);
             stack.Push(3);
             stack.Push(4);
- 
+
 
             Console.WriteLine("Top element: " + stack.Peek());
             Console.WriteLine("Popped element: " + stack.Pop());
             Console.WriteLine("Top element after pop: " + stack.Peek());
 
 
+            Console.WriteLine("\nNext Learning is DSA, Find the longest Common of string");
 
+            Array_String_Common_Prefix array_String_Common_Prefix = new Array_String_Common_Prefix();
 
-
+            array_String_Common_Prefix.CommonPrefix();
         }
 
     }
