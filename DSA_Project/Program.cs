@@ -174,6 +174,12 @@ namespace DSA_Project
             Array_String_remove_occurence array_String_Remove_Occurence = new Array_String_remove_occurence();
             array_String_Remove_Occurence.RemoveOccurence();
 
+            Console.WriteLine("\nNext Learning is DSA, Majority Element");
+
+            Array_Majority_Element array_Majority_Element = new Array_Majority_Element();
+
+            array_Majority_Element.MajorityElement();
+
         }
 
     }
